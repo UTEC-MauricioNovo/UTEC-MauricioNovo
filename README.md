@@ -13,7 +13,11 @@ La App permite crear, eliminar y buscar notas (que no se hayan eliminado).
 Modo Oscuro: 
 
   Sobre la parte superior derecha se encuentra el botón "Toggle Mode", el cual nos premite cambiar la aplicación a modo oscuro.
-  
+
+## Sobre el uso de Github
+
+Debido a que el proyecto se desarrolla por un solo participante, se desarrolla en forma local y luego se sube la solucón al repositorio.
+
 ## Agradecimientos: 
 Renzo Scuadroni, Cecilia Gutierrez, Lorena Rodriguez, UTEC y Moov It.
 
